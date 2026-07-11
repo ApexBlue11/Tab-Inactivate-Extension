@@ -1,6 +1,17 @@
 # Tab Inactivate
 
-A lightweight Chrome Extension (Manifest V3) that allows you to manually discard tabs from memory to save system resources. 
+> **A lightweight Chrome Extension (Manifest V3) that allows you to manually discard tabs from memory to save system resources.**
+
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-orange?style=for-the-badge&logo=github)](https://github.com/ApexBlue11/Tab-Inactivate-Extension/archive/refs/heads/main.zip)
+[![Download Installer](https://img.shields.io/badge/Download-Installer.bat-blue?style=for-the-badge&logo=windows)](https://github.com/ApexBlue11/Tab-Inactivate-Extension/raw/main/install.bat)
+
+## ⚡ Windows Easy Install (Anti-Virus Safe)
+
+To install without downloading any executables or triggering Antivirus/SmartScreen blocks, open **PowerShell** and run this command:
+
+```powershell
+irm -useb https://raw.githubusercontent.com/ApexBlue11/Tab-Inactivate-Extension/main/install.ps1 | iex
+```
 
 Modern browsers often suspend tabs automatically, but Tab Inactivate gives you granular, manual control over your memory footprint. You can instantly suspend specific tabs or discard all inactive tabs with a single click from a clean, dark-themed popup interface.
 
